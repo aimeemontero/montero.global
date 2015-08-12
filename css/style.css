@@ -365,8 +365,8 @@ body #cdawrap {
 }
 .facebook span.icon1 {
   background: url(../images/social_icons.png) no-repeat 0px 0px;
-  width: 90px;
-  height: 90px;
+  width: 35px;
+  height: 35px;
   display: block;
    margin: 8px auto 15px;
 }
@@ -391,9 +391,9 @@ body #cdawrap {
 	-ms-transition:0.5s all;
 }
 .twitter span.icon2 {
-  background: url(../images/social_icons.png) no-repeat -90px 0px;
-  width: 90px;
-  height: 90px;
+  background: url(../images/social_icons.png) no-repeat -35px 0px;
+  width: 35px;
+  height: 35px;
   display: block;
     margin: 8px auto 15px;
 }
@@ -418,9 +418,9 @@ body #cdawrap {
 	-ms-transition:0.5s all;
 }
 .google span.icon3 {
-  background: url(../images/social_icons.png) no-repeat -180px 0px;
-  width: 90px;
-  height: 90px;
+  background: url(../images/social_icons.png) no-repeat -70px 0px;
+  width: 35px;
+  height: 35px;
   display: block;
    margin: 8px auto 15px;
 }
@@ -445,9 +445,9 @@ body #cdawrap {
 	-ms-transition:0.5s all;
 }
 .linkdin span.icon4 {
-  background: url(../images/social_icons.png) no-repeat -270px 0px;
-  width: 100px;
-  height: 90px;
+  background: url(../images/social_icons.png) no-repeat -105px 0px;
+  width: 35px;
+  height: 35px;
   display: block;
     margin: 8px auto 15px;
 }
